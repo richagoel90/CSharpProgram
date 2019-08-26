@@ -1,0 +1,7 @@
+C:\Users\richa\source\repos\SubstringinCsharp\SubstringinCsharp\bin\Debug\SubstringinCsharp.exe.config
+C:\Users\richa\source\repos\SubstringinCsharp\SubstringinCsharp\bin\Debug\SubstringinCsharp.exe
+C:\Users\richa\source\repos\SubstringinCsharp\SubstringinCsharp\bin\Debug\SubstringinCsharp.pdb
+C:\Users\richa\source\repos\SubstringinCsharp\SubstringinCsharp\obj\Debug\SubstringinCsharp.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\SubstringinCsharp\SubstringinCsharp\obj\Debug\SubstringinCsharp.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\SubstringinCsharp\SubstringinCsharp\obj\Debug\SubstringinCsharp.exe
+C:\Users\richa\source\repos\SubstringinCsharp\SubstringinCsharp\obj\Debug\SubstringinCsharp.pdb

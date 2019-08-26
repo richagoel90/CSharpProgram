@@ -1,0 +1,7 @@
+C:\Users\richa\source\repos\reversebitCsharp\linkedlist\bin\Debug\linkedlist.exe.config
+C:\Users\richa\source\repos\reversebitCsharp\linkedlist\bin\Debug\linkedlist.exe
+C:\Users\richa\source\repos\reversebitCsharp\linkedlist\bin\Debug\linkedlist.pdb
+C:\Users\richa\source\repos\reversebitCsharp\linkedlist\obj\Debug\linkedlist.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\reversebitCsharp\linkedlist\obj\Debug\linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\reversebitCsharp\linkedlist\obj\Debug\linkedlist.exe
+C:\Users\richa\source\repos\reversebitCsharp\linkedlist\obj\Debug\linkedlist.pdb

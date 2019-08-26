@@ -1,0 +1,7 @@
+C:\Users\richa\source\repos\FInd1noinarray\ReverseBitsOfNumber\bin\Debug\ReverseBitsOfNumber.exe.config
+C:\Users\richa\source\repos\FInd1noinarray\ReverseBitsOfNumber\bin\Debug\ReverseBitsOfNumber.exe
+C:\Users\richa\source\repos\FInd1noinarray\ReverseBitsOfNumber\bin\Debug\ReverseBitsOfNumber.pdb
+C:\Users\richa\source\repos\FInd1noinarray\ReverseBitsOfNumber\obj\Debug\ReverseBitsOfNumber.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\FInd1noinarray\ReverseBitsOfNumber\obj\Debug\ReverseBitsOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\FInd1noinarray\ReverseBitsOfNumber\obj\Debug\ReverseBitsOfNumber.exe
+C:\Users\richa\source\repos\FInd1noinarray\ReverseBitsOfNumber\obj\Debug\ReverseBitsOfNumber.pdb

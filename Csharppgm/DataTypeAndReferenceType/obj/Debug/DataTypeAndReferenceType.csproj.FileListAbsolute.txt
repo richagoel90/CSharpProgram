@@ -1,0 +1,7 @@
+C:\Users\richa\source\repos\reversebitCsharp\DataTypeAndReferenceType\bin\Debug\DataTypeAndReferenceType.exe.config
+C:\Users\richa\source\repos\reversebitCsharp\DataTypeAndReferenceType\bin\Debug\DataTypeAndReferenceType.exe
+C:\Users\richa\source\repos\reversebitCsharp\DataTypeAndReferenceType\bin\Debug\DataTypeAndReferenceType.pdb
+C:\Users\richa\source\repos\reversebitCsharp\DataTypeAndReferenceType\obj\Debug\DataTypeAndReferenceType.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\reversebitCsharp\DataTypeAndReferenceType\obj\Debug\DataTypeAndReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\reversebitCsharp\DataTypeAndReferenceType\obj\Debug\DataTypeAndReferenceType.exe
+C:\Users\richa\source\repos\reversebitCsharp\DataTypeAndReferenceType\obj\Debug\DataTypeAndReferenceType.pdb

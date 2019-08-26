@@ -1,0 +1,14 @@
+C:\Users\richa\source\repos\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\richa\source\repos\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\richa\source\repos\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\richa\source\repos\MergeSort\MergeSort\obj\Debug\MergeSort.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\richa\source\repos\MergeSort\MergeSort\obj\Debug\MergeSort.pdb
+C:\Users\richa\source\repos\MergeQuickSort\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\richa\source\repos\MergeQuickSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\richa\source\repos\MergeQuickSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\richa\source\repos\MergeQuickSort\MergeSort\obj\Debug\MergeSort.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\MergeQuickSort\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\MergeQuickSort\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\richa\source\repos\MergeQuickSort\MergeSort\obj\Debug\MergeSort.pdb

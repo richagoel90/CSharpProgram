@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\CsharpLinkedList\MiddleNode\bin\Debug\MiddleNode.exe.config
+C:\Users\richa\source\repos\CsharpLinkedList\MiddleNode\bin\Debug\MiddleNode.exe
+C:\Users\richa\source\repos\CsharpLinkedList\MiddleNode\bin\Debug\MiddleNode.pdb
+C:\Users\richa\source\repos\CsharpLinkedList\MiddleNode\bin\Debug\CsharpLinkedList.exe
+C:\Users\richa\source\repos\CsharpLinkedList\MiddleNode\bin\Debug\CsharpLinkedList.pdb
+C:\Users\richa\source\repos\CsharpLinkedList\MiddleNode\bin\Debug\CsharpLinkedList.exe.config
+C:\Users\richa\source\repos\CsharpLinkedList\MiddleNode\obj\Debug\MiddleNode.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\CsharpLinkedList\MiddleNode\obj\Debug\MiddleNode.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\CsharpLinkedList\MiddleNode\obj\Debug\MiddleNode.csproj.CopyComplete
+C:\Users\richa\source\repos\CsharpLinkedList\MiddleNode\obj\Debug\MiddleNode.exe
+C:\Users\richa\source\repos\CsharpLinkedList\MiddleNode\obj\Debug\MiddleNode.pdb

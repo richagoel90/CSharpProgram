@@ -1,0 +1,6 @@
+C:\Users\richa\source\repos\StackinCsharp\ExpressionSolution\bin\Debug\ExpressionSolution.exe.config
+C:\Users\richa\source\repos\StackinCsharp\ExpressionSolution\bin\Debug\ExpressionSolution.exe
+C:\Users\richa\source\repos\StackinCsharp\ExpressionSolution\bin\Debug\ExpressionSolution.pdb
+C:\Users\richa\source\repos\StackinCsharp\ExpressionSolution\obj\Debug\ExpressionSolution.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\StackinCsharp\ExpressionSolution\obj\Debug\ExpressionSolution.exe
+C:\Users\richa\source\repos\StackinCsharp\ExpressionSolution\obj\Debug\ExpressionSolution.pdb

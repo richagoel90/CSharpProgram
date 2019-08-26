@@ -1,0 +1,7 @@
+C:\Users\richa\source\repos\reversebitCsharp\stringpalindrome\obj\Debug\stringpalindrome.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\reversebitCsharp\stringpalindrome\obj\Debug\stringpalindrome.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\reversebitCsharp\stringpalindrome\bin\Debug\stringpalindrome.exe.config
+C:\Users\richa\source\repos\reversebitCsharp\stringpalindrome\bin\Debug\stringpalindrome.exe
+C:\Users\richa\source\repos\reversebitCsharp\stringpalindrome\bin\Debug\stringpalindrome.pdb
+C:\Users\richa\source\repos\reversebitCsharp\stringpalindrome\obj\Debug\stringpalindrome.exe
+C:\Users\richa\source\repos\reversebitCsharp\stringpalindrome\obj\Debug\stringpalindrome.pdb

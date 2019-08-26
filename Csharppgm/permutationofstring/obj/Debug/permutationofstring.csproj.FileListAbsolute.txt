@@ -1,0 +1,7 @@
+C:\Users\richa\source\repos\reversebitCsharp\permutationofstring\bin\Debug\permutationofstring.exe.config
+C:\Users\richa\source\repos\reversebitCsharp\permutationofstring\bin\Debug\permutationofstring.exe
+C:\Users\richa\source\repos\reversebitCsharp\permutationofstring\bin\Debug\permutationofstring.pdb
+C:\Users\richa\source\repos\reversebitCsharp\permutationofstring\obj\Debug\permutationofstring.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\reversebitCsharp\permutationofstring\obj\Debug\permutationofstring.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\reversebitCsharp\permutationofstring\obj\Debug\permutationofstring.exe
+C:\Users\richa\source\repos\reversebitCsharp\permutationofstring\obj\Debug\permutationofstring.pdb

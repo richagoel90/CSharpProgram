@@ -1,0 +1,7 @@
+C:\Users\richa\source\repos\reversebitCsharp\palindromepermutation\obj\Debug\palindromepermutation.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\reversebitCsharp\palindromepermutation\obj\Debug\palindromepermutation.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\reversebitCsharp\palindromepermutation\bin\Debug\palindromepermutation.exe.config
+C:\Users\richa\source\repos\reversebitCsharp\palindromepermutation\bin\Debug\palindromepermutation.exe
+C:\Users\richa\source\repos\reversebitCsharp\palindromepermutation\bin\Debug\palindromepermutation.pdb
+C:\Users\richa\source\repos\reversebitCsharp\palindromepermutation\obj\Debug\palindromepermutation.exe
+C:\Users\richa\source\repos\reversebitCsharp\palindromepermutation\obj\Debug\palindromepermutation.pdb
